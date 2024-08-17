@@ -3,6 +3,8 @@ Angular UI Demo with built-in AI Chatbot
 <a href="https://angular.florantepascual.com/" target="__blank"><img src="./assets/img/ng-demo-multi-device-1080p.png"></a>
 This is a demo application showcasing my skills in both frontend and backend development. The app utilizes Angular, Tailwind CSS, Angular Material, API integration using Firebase Cloud Functions in Node.js TypeScript, and features an AI-powered embedded chatbot connected to OpenAI.
 
+Test drive it on this link: [https://angular.florantepascual.com/](https://angular.florantepascual.com/)
+
 ## Features
 
 - **Contacts Manager:** Manage your contacts efficiently with a user-friendly interface.
